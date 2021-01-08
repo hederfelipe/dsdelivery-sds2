@@ -11,8 +11,6 @@ function Footer(){
         <a href="www.youtube.com" target="_new"><YoutubeIcon/></a>
         <a href="www.linkeding.com" target="_new"><LinkedingIcon/></a>
         <a href="www.instagram.com" target="_new"><InstagramIcon/></a>
-
-
       </div>
     </footer>
     );
